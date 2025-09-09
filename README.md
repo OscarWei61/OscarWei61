@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🎓 ECE MEng @ University of illinois at Urbana-Champaign (Class of 2024)<br/>
-⚡ Specialize in data engineer and data science <br/>
+⚡ Specialize in machine learning and data science <br/>
 
 ### Languages & Tools
 
